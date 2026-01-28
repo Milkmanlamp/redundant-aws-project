@@ -1,0 +1,4 @@
+# Terraform (CRITICAL)
+.terraform
+*.tfstate
+*.tfstate.backup
